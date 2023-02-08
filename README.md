@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LiquidMind21
-- 👀 I’m interested in Android App Development!
-- 🌱 I’m currently learning Android App Development
-- 💞️ I’m looking to collaborate on N/A
+- 💻 I'm interested in Front End devlopment 
+- 🌱 I’m currently learning Front end Development
 - 📫 How to reach me lukemangan.work@outlook.com
 
 <!---
